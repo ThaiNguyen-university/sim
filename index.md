@@ -36,7 +36,7 @@
     </div>
 
     <div class="container" id="form_container">
-        <form id="theForm" action="https://script.google.com/macros/s/AKfycbxISvUvOMc05ieYpo6bmSSyU3Xxhp_RoAbe1uw6iFns0rylv8_zvf1klHe8xFH7N8vu/exec" method="GET" onsubmit="return preventRepeatedSubmission();">
+        <form id="theForm" action="https://script.google.com/macros/s/AKfycbzg4cNv9CGMOLOjanBv1V3PxAat59lU7MYotisK-Kan66xhrZ13G28aED98MXxuIg9F/exec" method="GET" onsubmit="return preventRepeatedSubmission();">
             <div class="form-group">
                 <label for="name">Tên：</label>
                 <input class="form-control" type="text" inputmode="text" name="name" required>
