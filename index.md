@@ -49,7 +49,7 @@
             </div>
 
 <div class="card form-group">
-        <div class="card-header">Câu q10</div>
+        <div class="card-header">Câu 10</div>
         <div class="card-body">
 
                 <p>
@@ -84,7 +84,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q3</div>
+        <div class="card-header">Câu 3</div>
         <div class="card-body">
 
                 <p>
@@ -119,7 +119,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q77</div>
+        <div class="card-header">Câu 77</div>
         <div class="card-body">
 
                 <p>
@@ -154,7 +154,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q30</div>
+        <div class="card-header">Câu 30</div>
         <div class="card-body">
 
                 <p>
@@ -189,7 +189,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q83</div>
+        <div class="card-header">Câu 83</div>
         <div class="card-body">
 
                 <p>
@@ -224,7 +224,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q13</div>
+        <div class="card-header">Câu 13</div>
         <div class="card-body">
 
                 <p>
@@ -259,7 +259,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q17</div>
+        <div class="card-header">Câu 17</div>
         <div class="card-body">
 
                 <p>
@@ -294,7 +294,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q11</div>
+        <div class="card-header">Câu 11</div>
         <div class="card-body">
 
                 <p>
@@ -329,7 +329,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q63</div>
+        <div class="card-header">Câu 63</div>
         <div class="card-body">
 
                 <p>
@@ -364,7 +364,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q18</div>
+        <div class="card-header">Câu 18</div>
         <div class="card-body">
 
                 <p>
@@ -399,7 +399,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q56</div>
+        <div class="card-header">Câu 56</div>
         <div class="card-body">
 
                 <p>
@@ -434,7 +434,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q68</div>
+        <div class="card-header">Câu 68</div>
         <div class="card-body">
 
                 <p>
@@ -469,7 +469,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q34</div>
+        <div class="card-header">Câu 34</div>
         <div class="card-body">
 
                 <p>
@@ -504,7 +504,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q84</div>
+        <div class="card-header">Câu 84</div>
         <div class="card-body">
 
                 <p>
@@ -539,7 +539,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q52</div>
+        <div class="card-header">Câu 52</div>
         <div class="card-body">
 
                 <p>
@@ -574,7 +574,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q85</div>
+        <div class="card-header">Câu 85</div>
         <div class="card-body">
 
                 <p>
@@ -609,7 +609,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q62</div>
+        <div class="card-header">Câu 62</div>
         <div class="card-body">
 
                 <p>
@@ -644,7 +644,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q60</div>
+        <div class="card-header">Câu 60</div>
         <div class="card-body">
 
                 <p>
@@ -679,7 +679,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q49</div>
+        <div class="card-header">Câu 49</div>
         <div class="card-body">
 
                 <p>
@@ -714,7 +714,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q75</div>
+        <div class="card-header">Câu 75</div>
         <div class="card-body">
 
                 <p>
@@ -749,7 +749,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q73</div>
+        <div class="card-header">Câu 73</div>
         <div class="card-body">
 
                 <p>
@@ -784,7 +784,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q47</div>
+        <div class="card-header">Câu 47</div>
         <div class="card-body">
 
                 <p>
@@ -819,7 +819,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q8</div>
+        <div class="card-header">Câu 8</div>
         <div class="card-body">
 
                 <p>
@@ -854,7 +854,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q19</div>
+        <div class="card-header">Câu 19</div>
         <div class="card-body">
 
                 <p>
@@ -889,7 +889,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q21</div>
+        <div class="card-header">Câu 21</div>
         <div class="card-body">
 
                 <p>
@@ -924,7 +924,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q20</div>
+        <div class="card-header">Câu 20</div>
         <div class="card-body">
 
                 <p>
@@ -959,7 +959,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q79</div>
+        <div class="card-header">Câu 79</div>
         <div class="card-body">
 
                 <p>
@@ -994,7 +994,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q74</div>
+        <div class="card-header">Câu 74</div>
         <div class="card-body">
 
                 <p>
@@ -1029,7 +1029,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q89</div>
+        <div class="card-header">Câu 89</div>
         <div class="card-body">
 
                 <p>
@@ -1064,7 +1064,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q24</div>
+        <div class="card-header">Câu 24</div>
         <div class="card-body">
 
                 <p>
@@ -1099,7 +1099,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q25</div>
+        <div class="card-header">Câu 25</div>
         <div class="card-body">
 
                 <p>
@@ -1134,7 +1134,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q12</div>
+        <div class="card-header">Câu 12</div>
         <div class="card-body">
 
                 <p>
@@ -1169,7 +1169,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q9</div>
+        <div class="card-header">Câu 9</div>
         <div class="card-body">
 
                 <p>
@@ -1204,7 +1204,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q22</div>
+        <div class="card-header">Câu 22</div>
         <div class="card-body">
 
                 <p>
@@ -1239,7 +1239,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q69</div>
+        <div class="card-header">Câu 69</div>
         <div class="card-body">
 
                 <p>
@@ -1274,7 +1274,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q87</div>
+        <div class="card-header">Câu 87</div>
         <div class="card-body">
 
                 <p>
@@ -1309,7 +1309,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q35</div>
+        <div class="card-header">Câu 35</div>
         <div class="card-body">
 
                 <p>
@@ -1344,7 +1344,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q76</div>
+        <div class="card-header">Câu 76</div>
         <div class="card-body">
 
                 <p>
@@ -1379,7 +1379,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q45</div>
+        <div class="card-header">Câu 45</div>
         <div class="card-body">
 
                 <p>
@@ -1414,7 +1414,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q57</div>
+        <div class="card-header">Câu 57</div>
         <div class="card-body">
 
                 <p>
@@ -1449,7 +1449,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q23</div>
+        <div class="card-header">Câu 23</div>
         <div class="card-body">
 
                 <p>
@@ -1484,7 +1484,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q80</div>
+        <div class="card-header">Câu 80</div>
         <div class="card-body">
 
                 <p>
@@ -1519,7 +1519,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q7</div>
+        <div class="card-header">Câu 7</div>
         <div class="card-body">
 
                 <p>
@@ -1554,7 +1554,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q38</div>
+        <div class="card-header">Câu 38</div>
         <div class="card-body">
 
                 <p>
@@ -1589,7 +1589,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q16</div>
+        <div class="card-header">Câu 16</div>
         <div class="card-body">
 
                 <p>
@@ -1624,7 +1624,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q14</div>
+        <div class="card-header">Câu 14</div>
         <div class="card-body">
 
                 <p>
@@ -1659,7 +1659,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q86</div>
+        <div class="card-header">Câu 86</div>
         <div class="card-body">
 
                 <p>
@@ -1694,7 +1694,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q6</div>
+        <div class="card-header">Câu 6</div>
         <div class="card-body">
 
                 <p>
@@ -1729,7 +1729,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q43</div>
+        <div class="card-header">Câu 43</div>
         <div class="card-body">
 
                 <p>
@@ -1764,7 +1764,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q53</div>
+        <div class="card-header">Câu 53</div>
         <div class="card-body">
 
                 <p>
@@ -1799,7 +1799,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q61</div>
+        <div class="card-header">Câu 61</div>
         <div class="card-body">
 
                 <p>
@@ -1834,7 +1834,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q59</div>
+        <div class="card-header">Câu 59</div>
         <div class="card-body">
 
                 <p>
@@ -1869,7 +1869,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q48</div>
+        <div class="card-header">Câu 48</div>
         <div class="card-body">
 
                 <p>
@@ -1904,7 +1904,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q42</div>
+        <div class="card-header">Câu 42</div>
         <div class="card-body">
 
                 <p>
@@ -1939,7 +1939,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q1</div>
+        <div class="card-header">Câu 1</div>
         <div class="card-body">
 
                 <p>
@@ -1974,7 +1974,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q72</div>
+        <div class="card-header">Câu 72</div>
         <div class="card-body">
 
                 <p>
@@ -2009,7 +2009,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q70</div>
+        <div class="card-header">Câu 70</div>
         <div class="card-body">
 
                 <p>
@@ -2044,7 +2044,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q2</div>
+        <div class="card-header">Câu 2</div>
         <div class="card-body">
 
                 <p>
@@ -2079,7 +2079,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q41</div>
+        <div class="card-header">Câu 41</div>
         <div class="card-body">
 
                 <p>
@@ -2114,7 +2114,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q67</div>
+        <div class="card-header">Câu 67</div>
         <div class="card-body">
 
                 <p>
@@ -2149,7 +2149,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q4</div>
+        <div class="card-header">Câu 4</div>
         <div class="card-body">
 
                 <p>
@@ -2184,7 +2184,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q32</div>
+        <div class="card-header">Câu 32</div>
         <div class="card-body">
 
                 <p>
@@ -2219,7 +2219,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q15</div>
+        <div class="card-header">Câu 15</div>
         <div class="card-body">
 
                 <p>
@@ -2254,7 +2254,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q27</div>
+        <div class="card-header">Câu 27</div>
         <div class="card-body">
 
                 <p>
@@ -2289,7 +2289,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q81</div>
+        <div class="card-header">Câu 81</div>
         <div class="card-body">
 
                 <p>
@@ -2324,7 +2324,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q54</div>
+        <div class="card-header">Câu 54</div>
         <div class="card-body">
 
                 <p>
@@ -2359,7 +2359,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q39</div>
+        <div class="card-header">Câu 39</div>
         <div class="card-body">
 
                 <p>
@@ -2394,7 +2394,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q66</div>
+        <div class="card-header">Câu 66</div>
         <div class="card-body">
 
                 <p>
@@ -2429,7 +2429,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q88</div>
+        <div class="card-header">Câu 88</div>
         <div class="card-body">
 
                 <p>
@@ -2464,7 +2464,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q71</div>
+        <div class="card-header">Câu 71</div>
         <div class="card-body">
 
                 <p>
@@ -2499,7 +2499,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q28</div>
+        <div class="card-header">Câu 28</div>
         <div class="card-body">
 
                 <p>
@@ -2534,7 +2534,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q26</div>
+        <div class="card-header">Câu 26</div>
         <div class="card-body">
 
                 <p>
@@ -2569,7 +2569,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q58</div>
+        <div class="card-header">Câu 58</div>
         <div class="card-body">
 
                 <p>
@@ -2604,7 +2604,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q44</div>
+        <div class="card-header">Câu 44</div>
         <div class="card-body">
 
                 <p>
@@ -2639,7 +2639,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q29</div>
+        <div class="card-header">Câu 29</div>
         <div class="card-body">
 
                 <p>
@@ -2674,7 +2674,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q50</div>
+        <div class="card-header">Câu 50</div>
         <div class="card-body">
 
                 <p>
@@ -2709,7 +2709,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q33</div>
+        <div class="card-header">Câu 33</div>
         <div class="card-body">
 
                 <p>
@@ -2744,7 +2744,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q46</div>
+        <div class="card-header">Câu 46</div>
         <div class="card-body">
 
                 <p>
@@ -2779,7 +2779,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q64</div>
+        <div class="card-header">Câu 64</div>
         <div class="card-body">
 
                 <p>
@@ -2814,7 +2814,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q5</div>
+        <div class="card-header">Câu 5</div>
         <div class="card-body">
 
                 <p>
@@ -2849,7 +2849,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q55</div>
+        <div class="card-header">Câu 55</div>
         <div class="card-body">
 
                 <p>
@@ -2884,7 +2884,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q51</div>
+        <div class="card-header">Câu 51</div>
         <div class="card-body">
 
                 <p>
@@ -2919,7 +2919,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q40</div>
+        <div class="card-header">Câu 40</div>
         <div class="card-body">
 
                 <p>
@@ -2954,7 +2954,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q78</div>
+        <div class="card-header">Câu 78</div>
         <div class="card-body">
 
                 <p>
@@ -2989,7 +2989,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q31</div>
+        <div class="card-header">Câu 31</div>
         <div class="card-body">
 
                 <p>
@@ -3024,7 +3024,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q37</div>
+        <div class="card-header">Câu 37</div>
         <div class="card-body">
 
                 <p>
@@ -3059,7 +3059,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q65</div>
+        <div class="card-header">Câu 65</div>
         <div class="card-body">
 
                 <p>
@@ -3094,7 +3094,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q82</div>
+        <div class="card-header">Câu 82</div>
         <div class="card-body">
 
                 <p>
@@ -3129,7 +3129,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q36</div>
+        <div class="card-header">Câu 36</div>
         <div class="card-body">
 
                 <p>
@@ -3164,7 +3164,7 @@
     </div>
  
 <div class="card form-group">
-        <div class="card-header">Câu q90</div>
+        <div class="card-header">Câu 90</div>
         <div class="card-body">
 
                 <p>
@@ -3198,110 +3198,6 @@
         </div>
     </div>
  
-<div class="card form-group">
-        <div class="card-header">Câu </div>
-        <div class="card-body">
-
-                <p>
-                    <audio controls preload="none"  src="wavs">
-                        Your browser does not support the audio element.
-                    </audio>
-                </p>
-
-                <p>
-                    <audio controls preload="none"  src="wavs">
-                        Your browser does not support the audio element.
-                    </audio>
-                </p>
-
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="" id="" value="1" required>
-                <label class="form-check-label" for="">1. Chắc chắn là giống nhau (Definitely the same)</label>
-            </div>
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="" id="" value="2" required>
-                <label class="form-check-label" for="">2. Có thể giống (Maybe the same)</label>
-            </div>
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="" id="" value="3" required>
-                <label class="form-check-label" for="">3. Có thể khác nhau (Maybe different)</label>
-            </div>
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="" id="" value="4" required>
-                <label class="form-check-label" for="">4. Chắc chắn là khác (Definitely different)</label>
-            </div>
-        </div>
-    </div>
- 
-<div class="card form-group">
-        <div class="card-header">Câu </div>
-        <div class="card-body">
-
-                <p>
-                    <audio controls preload="none"  src="wavs">
-                        Your browser does not support the audio element.
-                    </audio>
-                </p>
-
-                <p>
-                    <audio controls preload="none"  src="wavs">
-                        Your browser does not support the audio element.
-                    </audio>
-                </p>
-
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="" id="" value="1" required>
-                <label class="form-check-label" for="">1. Chắc chắn là giống nhau (Definitely the same)</label>
-            </div>
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="" id="" value="2" required>
-                <label class="form-check-label" for="">2. Có thể giống (Maybe the same)</label>
-            </div>
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="" id="" value="3" required>
-                <label class="form-check-label" for="">3. Có thể khác nhau (Maybe different)</label>
-            </div>
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="" id="" value="4" required>
-                <label class="form-check-label" for="">4. Chắc chắn là khác (Definitely different)</label>
-            </div>
-        </div>
-    </div>
- 
-<div class="card form-group">
-        <div class="card-header">Câu </div>
-        <div class="card-body">
-
-                <p>
-                    <audio controls preload="none"  src="wavs">
-                        Your browser does not support the audio element.
-                    </audio>
-                </p>
-
-                <p>
-                    <audio controls preload="none"  src="wavs">
-                        Your browser does not support the audio element.
-                    </audio>
-                </p>
-
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="" id="" value="1" required>
-                <label class="form-check-label" for="">1. Chắc chắn là giống nhau (Definitely the same)</label>
-            </div>
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="" id="" value="2" required>
-                <label class="form-check-label" for="">2. Có thể giống (Maybe the same)</label>
-            </div>
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="" id="" value="3" required>
-                <label class="form-check-label" for="">3. Có thể khác nhau (Maybe different)</label>
-            </div>
-            <div class="form-check">
-                <input class="form-check-input" type="radio" name="" id="" value="4" required>
-                <label class="form-check-label" for="">4. Chắc chắn là khác (Definitely different)</label>
-            </div>
-        </div>
-    </div>
  
 
 
