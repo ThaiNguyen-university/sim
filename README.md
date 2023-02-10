@@ -14,7 +14,7 @@
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
 
-    <h1 class="display-4">Thử nghiệm phân biệt người nói</h1>
+    <h1 class="display-4">Thử nghiệm phân biệt người nói OK</h1>
     <p class="lead">Xác định xem hai giọng nói có phải là của cùng một người hay không</p>
     <hr class="my-4">
     <p>
